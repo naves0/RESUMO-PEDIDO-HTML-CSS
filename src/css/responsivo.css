@@ -1,0 +1,13 @@
+@media (max-width: 375px){
+    body{
+        background-image: url(../images/pattern-background-mobile.svg);
+        background-repeat: no-repeat;
+        background-position: unset;
+        background-size: cover;
+    }
+    .container {
+        width: 90%;
+        height: 80%;
+        margin: 40px auto;
+    }
+}
